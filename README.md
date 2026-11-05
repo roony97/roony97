@@ -12,11 +12,11 @@ I'm an Applied AI student at **Mälardalen University (MDU), Sweden**, intereste
 
 Python · NumPy · pandas · scikit-learn · PyTorch · SQL · Docker · Git
 
-## Selected project
+## Projects
 
 - [Movie Recommendation System](https://github.com/roony97/filmrekommendation) — a Streamlit app using SVD collaborative filtering and MovieLens 100K.
+- **LiDAR point-cloud clustering (course project)** — filtered ground points using Z-height histograms, selected DBSCAN parameters from k-distance curves, and visualized clusters across two point-cloud datasets.
 
 ## Examensarbete
 
 I'm looking for an **examensarbete** opportunity in applied AI, machine learning, computer vision, or data analysis. I'm open to discussing project ideas with companies and research groups.
-
